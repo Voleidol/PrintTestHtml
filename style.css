@@ -1,0 +1,14 @@
+.work_list {
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.work_list_block {
+    /* display: inline-flex; */
+    width: 20%;
+    height: 20%;
+}
