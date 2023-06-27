@@ -2,13 +2,15 @@
     background-color: grey;
     display: flex;
     flex-wrap: wrap;
+    gap: 50px;
+    justify-content: space-between;
     width: 60%;
     height: 100vh;
     margin: 0 auto;
 }
 
-.work_list_block {
-    /* display: inline-flex; */
+.work_list_block_image {
+    display: block;
     width: 20%;
     height: 20%;
 }
